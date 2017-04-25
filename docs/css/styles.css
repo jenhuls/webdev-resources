@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 20px;
 }
 
@@ -32,15 +32,25 @@ header nav a:hover {
 }
 
 .portion {
-
-  background-image:  url('http://p1.pichost.me/640/60/1842352.jpg');
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
 }
-.portion.two {
-  background-image: url('http://cdn.desktopwallpapers4.me/media/thumbs_400x250/4/31677.jpg');
+.portion.interactive {
+  background-image: url('../images/interactive-parallax.jpg');
+}
+.portion.wordpress {
+  background-image: url('../images/wordpress-parallax.jpg');
+}
+.portion.frameworks {
+  background-image: url('../images/frameworks-parallax.jpg');
+}
+.portion.tutorials {
+  background-image: url('../images/tutorials-parallax.jpg');
+}
+.portion.photos {
+  background-image: url('../images/stock-parallax.jpg');
 }
 .portion h2 {
   color: white;
