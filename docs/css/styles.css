@@ -43,10 +43,10 @@ header nav a:hover {
 .portion.wordpress {
   background-image: url('../images/wordpress-parallax.jpg');
 }
-.portion.frameworks {
+.portion.framework {
   background-image: url('../images/frameworks-parallax.jpg');
 }
-.portion.tutorials {
+.portion.tutorial {
   background-image: url('../images/tutorials-parallax.jpg');
 }
 .portion.photos {
